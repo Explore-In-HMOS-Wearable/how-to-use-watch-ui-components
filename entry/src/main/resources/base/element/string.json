@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Wearable Arc-Components module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Wearable Arc-Components"
+    },
+    {
+      "name": "reason_background",
+      "value": "Location information is required for map features."
+    }
+  ]
+}

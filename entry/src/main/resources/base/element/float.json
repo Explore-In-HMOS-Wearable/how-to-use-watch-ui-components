@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "px_watch_size",
+      "value": "466px"
+    },
+    {
+      "name": "px_watch_radius",
+      "value": "233px"
+    },
+    {
+      "name": "list_item_size",
+      "value": "414px"
+    }
+  ]
+}
